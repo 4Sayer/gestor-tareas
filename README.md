@@ -1,7 +1,7 @@
 # Gestor de tareas
 
 ## Integrantes 
-- Omar Casanova (xSayer)
+- Omar Casanova
 
 ## Descripción
 Aplicación Java de consola que administra tareas personales.
